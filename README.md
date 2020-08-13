@@ -1,4 +1,8 @@
-### Hi there, I'm Thiti 👋
+<h2>Hi there, I'm Thiti 👋</h2>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthiti-y"/></a>
+</p>
 
 <!--
 **thiti-y/thiti-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
